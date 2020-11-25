@@ -120,6 +120,7 @@ local.properties
 .sts4-cache/
 
 ### vscode ###
+**/.vscode/
 .vscode/*
 .vscode/settings.json
 .vscode/tasks.json
